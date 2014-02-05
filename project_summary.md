@@ -1,17 +1,15 @@
 # Project Title
-Insert the name of your project
+Moiré
 
 ## Authors
-- Insert main author name, surname, github account
+- Daniel Gonzalez — https://github.com/degatt2
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Moiré is a software which deforms a surface based on the amplitude of sound, this surfaces creates an optical effects well know as Moiré. Visitors will be able to add their own sounds to modify the shape and colors of the optical effect. This surfaces will be 3d printed to be display in a stacked form on all the space avaible, that way visitors can observe the optical effect by walk.
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
-
-[Example Link](http://www.google.com "Example Link")
+## Link to Project Website — Still on beta
+[Project Website](http://degafolio.info/moire/index-en.html "Project Website")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
