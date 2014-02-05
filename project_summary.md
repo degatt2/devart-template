@@ -1,5 +1,5 @@
 # Moiré
-## — Sound, form & colors
+### Sound, form & colors
 
 ## Authors
 - Daniel Gonzalez — https://github.com/degatt2
