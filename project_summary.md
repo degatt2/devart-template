@@ -1,5 +1,5 @@
-# Project Title
-Moiré — Sound, form & colors
+# Moiré
+## — Sound, form & colors
 
 ## Authors
 - Daniel Gonzalez — https://github.com/degatt2
