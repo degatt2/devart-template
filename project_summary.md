@@ -3,7 +3,6 @@ Moiré
 
 ## Authors
 - Daniel Gonzalez — https://github.com/degatt2
-- Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
 Moiré is a software which deforms a surface based on the amplitude of sound, this surfaces creates an optical effects well know as Moiré. Visitors will be able to add their own sounds to modify the shape and colors of the optical effect. This surfaces will be 3d printed to be display in a stacked form on all the space avaible, that way visitors can observe the optical effect by walk.
